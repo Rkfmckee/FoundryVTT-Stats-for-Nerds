@@ -1,0 +1,17 @@
+.stats-for-nerds-icon-button {
+    background: transparent;
+    padding: 0;
+    color: white;
+    line-height: normal;
+    border: 0;
+    align-self: center;
+  }
+  
+  .stats-for-nerds-icon-button > i {
+    margin-right: 0;
+  }
+  
+  .stats-for-nerds-icon-button:hover, .stats-for-nerds-icon-button:focus {
+    box-shadow: none;
+    text-shadow: 0 0 5px red;
+  }

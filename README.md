@@ -1,1 +1,1 @@
-# FoundryVTT-Stats-for-Nerds
+# FoundryVTT-StatsForNerds
